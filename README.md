@@ -24,7 +24,7 @@
 ### Development
 
 Want to contribute? Great!
-You can actually be a big help and report any bugs here! [**REPORT BUG/ERROR**](../issues) - the streaming build system
+You can actually be a big help and report any bugs here! [**REPORT BUG/ERROR**](https://github.com/MtechMo/AafesLEX/issues) - the streaming build system
 
 ### Todos
 
