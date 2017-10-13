@@ -19,7 +19,8 @@
 
 ### Installation
 
-- Video Coming Soon
+- Basic Phone & Tablet Installation (coming soon)
+- Setting up to run on your Windows PC via Emulater for Android emulator (coming soon)
 
 ### Development
 
@@ -36,6 +37,8 @@ You can actually be a big help and report any bugs here! [**REPORT BUG/ERROR**](
 
 ### License
 
-[**MIT**](../blob/master/LICENSE)
+[**MIT**](../master/LICENSE)
 
-                                    **Free Software, Hell Yeah!**
+                                                  **Free Software, Hell Yeah!**
+                                    
+                                             | Made With ❤ by Michael Moore/MtechMo |
