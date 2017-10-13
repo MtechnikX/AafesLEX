@@ -19,7 +19,7 @@
   - Coming Soon
 
   
- [![Download Latest!](https://i.imgur.com/fbXRyFY.png)](https://github.com/MtechMo/AafesLEX/raw/master/app/app-release.apk)
+ [![Download Latest!](https://i.imgur.com/fbXRyFY.png)](https://github.com/MtechMo/AafesLEX/releases)
 
 ### Installation
 
