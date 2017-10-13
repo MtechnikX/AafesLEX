@@ -8,7 +8,7 @@
 
 
   - Uses Cloud, Modern UI for your mobile or wireless device(s) and **TRUE Magic** from [![M|techmo](https://i.imgur.com/IlIcF2a.png)](https://www.facebook.com/MtechMo?ref=DEV)
-  - Making your learning experiance easier where ever you are!
+  - Making your learning experience easier wherever you are!
 
 ## New Features!
 
